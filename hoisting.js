@@ -26,5 +26,6 @@ function sayMyName() {
     console.log(name);
 
   }
+sayMyName();
   sayMy();
 }
