@@ -24,7 +24,7 @@ function sayMyName() {
 
   function sayMy() {
   var name = "Kristin";
-
+sayMy = function;
   }
   sayMy();
 }
