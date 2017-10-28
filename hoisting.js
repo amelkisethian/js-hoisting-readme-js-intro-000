@@ -22,15 +22,15 @@ function sayMyName() {
   var name = "Cricky";
 
   function sayMy() {
-  var sayMy = function () {
-  name = "Kristin";
+
+  var name = "Kristin";
 console.log(name);
-    
-  } 
+
+  }
 
 
   sayMy();
-  
+
 
   }
 
